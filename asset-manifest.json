@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-camera-pro/static/css/main.4152c3d3.css",
-    "main.js": "/react-camera-pro/static/js/main.b60e0cd6.js",
+    "main.js": "/react-camera-pro/static/js/main.d02a4030.js",
     "index.html": "/react-camera-pro/index.html",
     "main.4152c3d3.css.map": "/react-camera-pro/static/css/main.4152c3d3.css.map",
-    "main.b60e0cd6.js.map": "/react-camera-pro/static/js/main.b60e0cd6.js.map"
+    "main.d02a4030.js.map": "/react-camera-pro/static/js/main.d02a4030.js.map"
   },
   "entrypoints": [
     "static/css/main.4152c3d3.css",
-    "static/js/main.b60e0cd6.js"
+    "static/js/main.d02a4030.js"
   ]
 }
